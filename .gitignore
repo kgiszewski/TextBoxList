@@ -4,26 +4,6 @@
 *Digital.Signage/Digital.Signage/App_Data/TEMP*/
 **/Logs/
 **/App_Data/
-**/media/
-**/install/
-**/packages/
-
-*.png
-*.gif
-*.jpg
-*.woff
-*.ttf
-*.otf
-*.svg
-*.swf
-*.flv
-*.air
-*.list
-*.txt
-*.gen
-*.zip
-*.eot
-*.bak
 
 umbraco.config
 
